@@ -3,7 +3,8 @@
 An interactive one-page executive dashboard built in Power BI, tracking revenue performance for a retail chain across four Philippine regions.
 
 https://ibb.co/4gKNPQN1 
-![alt text](image-2.png)
+<img width="914" height="475" alt="image" src="https://github.com/user-attachments/assets/aa992428-0fb9-431d-9fd7-0db273ff50ba" />
+
 
 ## 📌 Overview
 
